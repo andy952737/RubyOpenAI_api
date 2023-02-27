@@ -9,7 +9,7 @@ say_name = gets
 if say_name != "" 
 
 	client = OpenAI::Client.new(
-		access_token: "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"
+		access_token: "use your api-key"
 	)  
 
 	response = client.completions( 
