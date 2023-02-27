@@ -1,1 +1,2 @@
-# RubyOpenAI_api
+# OpenAI_api
+for ruby 
